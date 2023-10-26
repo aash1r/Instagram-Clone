@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721766150709",
+    "project_id": "instagram-clone-eeac5",
+    "storage_bucket": "instagram-clone-eeac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721766150709:android:518f1a90c322d8ef4af77c",
+        "android_client_info": {
+          "package_name": "com.example.instagram_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsfFiLgS-Sazfyx5lEpS3Npxw4W8wqiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
